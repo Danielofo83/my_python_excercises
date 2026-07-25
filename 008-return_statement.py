@@ -1,0 +1,48 @@
+'''THE RETURN STAMENT IN PYTHON EXPLICITLY RETURNS A VALUE FROM A FUNCTION. IT IS USED TO EXIT A FUNCTION AND GO BACK TO THE PLACE WHERE IT WAS CALLED. WHEN A RETURN STATEMENT IS EXECUTED, THE FUNCTION TERMINATES AND THE VALUE SPECIFIED IN THE RETURN A VALUE FROM A FUNCTION BACK TO THE CALLER CODE. THIS ENABLES ASSIGNING FUCTION EXECUTION RESUTS TO VARIABLES FOR FURTHER PROCESSING. IF NO VALUE IS SPECIFIED, THE FUNCTION RETURNS NONE BY DEFAULT.'''
+
+def add_numbers(a, b):
+    """
+    Add two numbers and return the result.
+    
+    Parameters
+    ----------
+    a : int or float
+        The first number to add.
+    b : int or float
+        The second number to add.
+    
+    Returns
+    -------
+    int or float
+        The sum of the two input numbers.
+    
+    Examples
+    --------
+    >>> add_numbers(3, 5)
+    8
+    
+    >>> add_numbers(2.5, 4.1)
+    6.6
+    
+    >>> add_numbers(-1, 1)
+    0
+    
+    >>> add_numbers(0, 0)
+    0
+    """
+    return a + b
+
+print(add_numbers(3, 5))  # Output: 8
+
+print(add_numbers(1,3))
+
+'''WHEN RETURN SUM EXECUTES INSIDE ADD_NUMS, VALUE OF SUM IS SENT BACK. THIS OUTPUT IS THEN PRINTED BY THE PRINT FUNCTION.
+
+SOME KEY POINTS ON RETURN STATEMENT:
+
+A FUNCTION TERMINATE EXECUTION INMMEDIATELY AFTER RETURN STATEMENT IS EXECUTED.
+
+VALUES FOLLOWING RETURN LIKE FURTHER STATEMENTS WONT EXECUTE 
+
+RETURNS NONE IF NO VALUE IS EXPLICITILY SPECIFIED
+CAN RETURN ANY DATA TYPE LIKE INT, FLOAT, STRING, LIST, DICTIONARY, TUPLE, OBJECTS ETC.'''
