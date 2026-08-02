@@ -62,3 +62,5 @@ for palabra in palabras:
     contador[palabra] += 1
 
 print(contador)  # Salida: defaultdict(<class 'int'>, {'manzana': 2, 'banana': 1, 'naranja': 1})
+
+
