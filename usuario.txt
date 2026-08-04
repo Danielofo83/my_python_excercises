@@ -1,0 +1,25 @@
+Nombre: , Edad: 
+Nombre: , Edad: 
+Nombre: , Edad: 
+Nombre: , Edad: 
+Nombre: , Edad: 
+Nombre: , Edad: 
+Nombre: , Edad: 
+Nombre: , Edad: 
+-Nombre: , Edad: 
+- Nombre: , Edad: 
+- +Nombre: , Edad: 
+- Nombre: , Edad: 
+- *Nombre: , Edad: 
+- * Nombre: , Edad: 
+- * 30 Nombre: , Edad: 
+- * 30 +Nombre: , Edad: 
+- * 30 + Nombre: , Edad: 
+- * 30 + Nombre: , Edad: 
+------------------------------
+Nombre: , Edad: 
+------------------------------
+Nombre: , Edad: 
+------------------------------
+Nombre: luis, Edad: 30
+------------------------------
