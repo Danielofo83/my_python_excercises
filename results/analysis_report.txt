@@ -1,0 +1,12 @@
+============================================================
+REPORTE DE ANÁLISIS CSV
+============================================================
+
+Total de Registros: 5
+
+Países: Canadá, Corea del Sur, India, México, USA
+
+Estadísticas de Edad:
+  Promedio: 32.8
+  Mínima: 28
+  Máxima: 42
